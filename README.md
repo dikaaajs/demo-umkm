@@ -16,7 +16,7 @@ Buka http://localhost:3000. Untuk memeriksa build: `npm run build`.
 - Menu, harga, kategori dan nomor WhatsApp contoh ada di `app/page.tsx`.
 - Ganti `6281234567890` dengan nomor WhatsApp usaha (kode negara tanpa tanda +).
 - Semua menu dan kontak adalah ilustrasi, dan beberapa menu memakai foto ilustrasi yang sama. Ganti foto, nama, jam dan lokasi sebelum digunakan klien.
-- Gambar hero buatan AI berada di `public/hero.png`.
+- Gambar hero buatan AI berada di `public/hero.jpg`.
 - Tampilan dan warna ada di `app/styles.css`.
 - Metadata ada di `app/layout.tsx`. Font dimuat dari Google Fonts, dengan fallback lokal.
 
