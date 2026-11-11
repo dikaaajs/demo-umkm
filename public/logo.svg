@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Logo Dapur Rasa: mangkuk dan daun</title>
+  <rect x="3" y="3" width="122" height="122" rx="32" fill="#48533b"/>
+  <path d="M25 70h78c-2.5 19-17.8 31-39 31S27.5 89 25 70Z" fill="#f6f3e9"/>
+  <path d="M38 108h52" stroke="#f6f3e9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M65 64c.5-14 5-25 18-31-2 13-7 23-18 31Z" fill="#b7c8a2"/>
+  <path d="M64 64c-1-12-7-20-20-24 2 12 8 20 20 24Z" fill="#e7e8d8"/>
+  <path d="M63 68c0-13-1-25-7-35" fill="none" stroke="#f6f3e9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M39 82c6 5 14 7 25 7" fill="none" stroke="#8c9a7d" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

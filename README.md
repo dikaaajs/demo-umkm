@@ -20,6 +20,7 @@ Buka http://localhost:3000. Untuk memeriksa build: `npm run build`.
 - Menu dan informasi usaha bersifat fiktif. Foto stok hanya contoh dan tidak menggambarkan produk usaha sebenarnya. Ganti dengan foto produk klien sebelum digunakan untuk usaha.
 - Foto contoh oleh Mufid Majnun di Unsplash: [foto pertama](https://unsplash.com/photos/a-plate-of-food-PHOf-72Iw-A) dan [foto kedua](https://unsplash.com/photos/a-plate-of-food-ljqmunR-oo4). Keduanya ditandai bebas digunakan di bawah [Lisensi Unsplash](https://unsplash.com/license).
 - Foto dimuat dari server Unsplash, sehingga membutuhkan koneksi internet.
+- Logo vektor berada di `public/logo.svg`, dan favicon multiukuran di `app/favicon.ico`. Keduanya memakai identitas visual yang sama.
 - Tampilan dan warna ada di `app/styles.css`.
 - Metadata ada di `app/layout.tsx`. Font dimuat dari Google Fonts, dengan fallback lokal.
 
