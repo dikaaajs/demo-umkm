@@ -17,8 +17,9 @@ Buka http://localhost:3000. Untuk memeriksa build: `npm run build`.
 - Alamat, jam operasional, tautan Google Maps, dan tautan layanan pesan antar ada di `app/business.ts`.
 - Isi `url` dengan tautan toko GoFood, GrabFood, ShopeeFood, atau platform lain. URL kosong tidak akan ditampilkan. Pengunjung diarahkan ke halaman toko, bukan langsung ke menu tertentu.
 - Jika semua URL kosong, website menampilkan informasi bahwa layanan pesan antar belum tersedia. Isi `mapsUrl` dengan tautan lokasi sebenarnya untuk menampilkan tombol Google Maps.
-- Semua menu dan kontak adalah ilustrasi, dan beberapa menu memakai foto ilustrasi yang sama. Ganti foto, nama, jam dan lokasi sebelum digunakan klien.
-- Gambar hero buatan AI berada di `public/hero.jpg`.
+- Menu dan informasi usaha bersifat fiktif. Foto stok hanya contoh dan tidak menggambarkan produk usaha sebenarnya. Ganti dengan foto produk klien sebelum digunakan untuk usaha.
+- Foto contoh oleh Mufid Majnun di Unsplash: [foto pertama](https://unsplash.com/photos/a-plate-of-food-PHOf-72Iw-A) dan [foto kedua](https://unsplash.com/photos/a-plate-of-food-ljqmunR-oo4). Keduanya ditandai bebas digunakan di bawah [Lisensi Unsplash](https://unsplash.com/license).
+- Foto dimuat dari server Unsplash, sehingga membutuhkan koneksi internet.
 - Tampilan dan warna ada di `app/styles.css`.
 - Metadata ada di `app/layout.tsx`. Font dimuat dari Google Fonts, dengan fallback lokal.
 
