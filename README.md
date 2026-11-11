@@ -13,8 +13,10 @@ Buka http://localhost:3000. Untuk memeriksa build: `npm run build`.
 
 ## Kustomisasi
 
-- Menu, harga, kategori dan nomor WhatsApp contoh ada di `app/page.tsx`.
-- Ganti `6281234567890` dengan nomor WhatsApp usaha (kode negara tanpa tanda +).
+- Menu, harga, dan kategori contoh ada di `app/page.tsx`.
+- Alamat, jam operasional, tautan Google Maps, dan tautan layanan pesan antar ada di `app/business.ts`.
+- Isi `url` dengan tautan toko GoFood, GrabFood, ShopeeFood, atau platform lain. URL kosong tidak akan ditampilkan. Pengunjung diarahkan ke halaman toko, bukan langsung ke menu tertentu.
+- Jika semua URL kosong, website menampilkan informasi bahwa layanan pesan antar belum tersedia. Isi `mapsUrl` dengan tautan lokasi sebenarnya untuk menampilkan tombol Google Maps.
 - Semua menu dan kontak adalah ilustrasi, dan beberapa menu memakai foto ilustrasi yang sama. Ganti foto, nama, jam dan lokasi sebelum digunakan klien.
 - Gambar hero buatan AI berada di `public/hero.jpg`.
 - Tampilan dan warna ada di `app/styles.css`.
